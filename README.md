@@ -3,7 +3,7 @@
 
 This project is a **Password Generator** built using HTML, JavaScript, and Bootstrap. The user can specify the length of the password, and the generator creates a strong password consisting of uppercase letters, lowercase letters, numbers, and special characters.
 
-![Password Generator Screenshot]((https://github.com/user-attachments/assets/ca2d3bab-3e9e-48df-a379-454053dec435))
+(https://github.com/user-attachments/assets/93ebafb6-fb1c-438d-bcc9-eec4bc085e65)
 
 
 
@@ -26,7 +26,7 @@ Check out the live version of this project here: [Live Demo Link](https://nikk-1
 
 Here’s a glimpse of the Password Generator in action:
 
-![Password Generator Screenshot](![Screenshot (154)](https://github.com/user-attachments/assets/93ebafb6-fb1c-438d-bcc9-eec4bc085e65)
+(https://github.com/user-attachments/assets/93ebafb6-fb1c-438d-bcc9-eec4bc085e65)
 
 
 ---
